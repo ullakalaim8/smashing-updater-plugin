@@ -3,8 +3,7 @@
 	Plugin Name: Smashing Plugin
 	Description: This is for updating your Wordpress plugin.
 	Version: 1.0.1
-	Author: Matthew Ray
-	Author URI: http://www.matthewray.com
+	Author: Kalim
 */
 if( ! class_exists( 'Smashing_Updater' ) ){
 	include_once( plugin_dir_path( __FILE__ ) . 'updater.php' );

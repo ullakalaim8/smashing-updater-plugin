@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Smashing Plugin
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: Kalim
 */
 if( ! class_exists( 'Smashing_Updater' ) ){
